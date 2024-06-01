@@ -1,4 +1,4 @@
-# Why 0.1 + 0.2 Does not equal 0.3 in Most Programming Languages
+# Float variables addition in most languages (proof in C language)
 
 This piece of C code demonstrates why when we add 0.1 and 0.2, we obtain a different result than expected.
 
